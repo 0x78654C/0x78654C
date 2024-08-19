@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-![0x78654c's GitHub stats](https://github-readme-stats.vercel.app/api?username=0x78654c&show_icons=true&theme=radical)
 ![Metrics](https://metrics.lecoq.io/0x78654c?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Europe%2FBucharest)
 
+-->
+![0x78654c's GitHub stats](https://github-readme-stats.vercel.app/api?username=0x78654c&show_icons=true&theme=radical)
