@@ -44,12 +44,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=0x78654c&show_icons=true&theme=chartreuse-dark&border_color=00FF41&count_private=true" width="450"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x78654c&layout=compact&theme=chartreuse-dark&border_color=00FF41" width="335"/>
-
-<br/><br/>
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=0x78654C&theme=matrix&border=00FF41&fire=00FF41&ring=00AA00)](https://git.io/streak-stats)
 
 </div>
