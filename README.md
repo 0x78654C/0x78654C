@@ -1,6 +1,6 @@
 <video
   src="https://github.com/user-attachments/assets/4729ce33-c8b9-462b-8bd1-9db2bd466492"
-  width="450"
+  width="50%"
   autoplay
   muted
   loop
