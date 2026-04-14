@@ -60,20 +60,19 @@
 
 | 🔧 Project | 📝 Description | Stars |
 |:----------|:--------------|:-----:|
-| [xTerminal](https://github.com/0x78654C/xTerminal) | Linux-like terminal emulator for Windows | ⭐ 108 |
-| [CIARE](https://github.com/0x78654C/CIARE) | C# text editor with live runtime compiler & execution | ⭐ 16 |
-| [PwM](https://github.com/0x78654C/PwM) | Local encrypted password manager (Argon2 + AES, WPF) | ⭐ 11 |
-| [xOS](https://github.com/0x78654C/xOS) | Operating system written in C# on Cosmos Kernel | ⭐ 7 |
-| [xBot-Twitch](https://github.com/0x78654C/xBot-Twitch-WPF) | Twitch bot with WPF frontend | ⭐ 6 |
-| [WakeOverLan](https://github.com/0x78654C/WakeOverLan) | Wake-on-LAN tool for Windows, Android & iOS | ⭐ 5 |
-| [PwM-Rust](https://github.com/0x78654C/PwM-Rust) | PwM password manager CLI — ported to Rust | ⭐ 2 |
+| [xTerminal](https://github.com/0x78654C/xTerminal) | Linux-like terminal emulator for Windows | ![Stars](https://img.shields.io/github/stars/0x78654C/xTerminal?style=flat-square&color=0d1117&labelColor=0d1117&label=⭐) |
+| [CIARE](https://github.com/0x78654C/CIARE) | C# text editor with live runtime compiler & execution | ![Stars](https://img.shields.io/github/stars/0x78654C/CIARE?style=flat-square&color=0d1117&labelColor=0d1117&label=⭐) |
+| [PwM](https://github.com/0x78654C/PwM) | Local encrypted password manager (Argon2 + AES, WPF) | ![Stars](https://img.shields.io/github/stars/0x78654C/PwM?style=flat-square&color=0d1117&labelColor=0d1117&label=⭐) |
+| [xOS](https://github.com/0x78654C/xOS) | Operating system written in C# on Cosmos Kernel | ![Stars](https://img.shields.io/github/stars/0x78654C/xOS?style=flat-square&color=0d1117&labelColor=0d1117&label=⭐) |
+| [xBot-Twitch](https://github.com/0x78654C/xBot-Twitch-WPF) | Twitch bot with WPF frontend | ![Stars](https://img.shields.io/github/stars/0x78654C/xBot-Twitch-WPF?style=flat-square&color=0d1117&labelColor=0d1117&label=⭐) |
+| [WakeOverLan](https://github.com/0x78654C/WakeOverLan) | Wake-on-LAN tool for Windows, Android & iOS | ![Stars](https://img.shields.io/github/stars/0x78654C/WakeOverLan?style=flat-square&color=0d1117&labelColor=0d1117&label=⭐) |
+| [PwM-Rust](https://github.com/0x78654C/PwM-Rust) | PwM password manager CLI — ported to Rust | ![Stars](https://img.shields.io/github/stars/0x78654C/PwM-Rust?style=flat-square&color=0d1117&labelColor=0d1117&label=⭐) |
 
 ---
 
 ### 📡 Activity Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=0x78654C&theme=matrix&color=00FF41&line=00FF41&point=ffffff&area=true&hide_border=false)](https://github.com/0x78654C)
-
----
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=0x78654C&theme=matrix&color=0d1117&line=00FF41&point=ffffff&area=true&hide_border=false)](https://github.com/0x78654C)
 
 
+</div>
