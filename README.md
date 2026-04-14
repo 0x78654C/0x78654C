@@ -1,4 +1,4 @@
-![ezgif-55d9935b2fd1b672](https://github.com/user-attachments/assets/bc030ebf-d49b-457d-81b8-fd895786642f)
+![demo](ezgif-55d9935b2fd1b672.gif)
 
 <!--
 **0x78654C/0x78654C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
